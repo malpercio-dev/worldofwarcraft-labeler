@@ -241,6 +241,7 @@ const LABELS = [
 ];
 
 const loginCredentials: LoginCredentials = {
+  pds: "https://pds.malpercio.dev",
   identifier: BSKY_IDENTIFIER,
   password: BSKY_PASSWORD,
 };
