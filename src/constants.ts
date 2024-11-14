@@ -7,7 +7,7 @@ export const BSKY_IDENTIFIER = process.env.BSKY_IDENTIFIER ?? "";
 export const BSKY_PASSWORD = process.env.BSKY_PASSWORD ?? "";
 export const JETSTREAM_URL =
   process.env.JETSTREAM_URL ?? "wss://jetstream.atproto.tools/subscribe";
-export const MAXLABELS = 1;
+export const MAXLABELS = 2;
 export const DELETE = "3laumgcczjk2y";
 export const POSTS: Record<string, string> = {
   // races
